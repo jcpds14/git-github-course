@@ -12,3 +12,4 @@ git branch //mostra a branch atual
 git branch teste //cria uma branch chamada teste
 git checkout master //muda a branch atual para master (esta linha foi criada na branch teste).
 git diff //mostra detalhadamente as alterações realizdas que não foram commitadas.
+git diff *codigo do commit* //mostra a diff após ter feito commit na commit escolhida
