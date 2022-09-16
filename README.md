@@ -10,4 +10,5 @@ git reset --hard //vai ignorar tudo, inclusive qualquer modificação feita nos 
 
 git branch //mostra a branch atual
 git branch teste //cria uma branch chamada teste
-git checkout master //muda a branch atual para master (esta linha foi criada na branch teste) 
+git checkout master //muda a branch atual para master (esta linha foi criada na branch teste).
+git diff //mostra detalhadamente as alterações realizdas que não foram commitadas.
