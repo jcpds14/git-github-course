@@ -24,3 +24,4 @@ git diff --name-only **mostra apenas o nome dos arquivos que foram alterados**
 git diff *nome do arquivo* **mostra alterações feitas no arquivo selecionado**
 
 git checkout HEAD -- *nome do aarquivo* **remove as alterações feitas no arquivo escolhido - checkout *é pra voltar pra alguma versão de qualquer coisa - HEAD *vai para o início da branch atual* -- *sig. que tudo que vem depois é o nome de um arquivo***
+
