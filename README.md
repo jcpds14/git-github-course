@@ -25,3 +25,7 @@ git diff *nome do arquivo* **mostra alterações feitas no arquivo selecionado**
 
 git checkout HEAD -- *nome do aarquivo* **remove as alterações feitas no arquivo escolhido - checkout *é pra voltar pra alguma versão de qualquer coisa - HEAD *vai para o início da branch atual* -- *sig. que tudo que vem depois é o nome de um arquivo***
 
+
+
+//IGNORANDO ARQUIVOS .gitignore
+basta criar um arquivo chamado .gitignore e dentro dele digitar o nome do arquivo a ser ignorado. *.txt ignora todos arquivos da extensão .txt 
